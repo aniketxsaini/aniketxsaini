@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE student at IIIT Manipur<br>💻 Interested in Backend Development, System Design & Cybersecurity<br>⚙️ Building backend systems with Node.js, Express.js, TypeScript & REST APIs<br>🗄️ Working with PostgreSQL, MongoDB & Redis<br>🧠 Practicing DSA & problem solving with C++<br>🔐 Interested in secure and scalable backend architecture<br>🌱 Currently exploring System Design<br>📫 Always building, learning, and breaking things to understand how they work.
+🎓 Studying Computer Science at IIIT Manipur, India<br>💻 Interested in Backend Development, System Design & Cybersecurity<br>⚙️ Building backend systems with Node.js, Express.js, TypeScript & REST APIs<br>🗄️ Working with PostgreSQL, MongoDB & Redis<br>🧠 Practicing DSA & problem solving with C++<br>🔐 Interested in secure and scalable backend architecture<br>🌱 Currently exploring System Design<br>📫 Always building, learning, and breaking things to understand how they work.
 
 
 ## 🌐 Socials:
